@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^1.3.3",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "commander": "^10.0.0",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node server.js ./app.js"
+  },
+  "name": "userbase",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
